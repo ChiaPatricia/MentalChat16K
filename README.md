@@ -39,7 +39,18 @@ This repository includes the following three folders:
 ## ⚖️ Ethical Considerations
 The dataset prioritizes patient privacy, ethical considerations, and responsible data usage. All real interview data has been anonymized to protect the identities of the participants. Researchers are encouraged to handle the data with care and adhere to ethical guidelines in their work.
 
-## 🔗 Access
+## Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ChiaPatricia/MentalChat16K.git
+   cd MentalChat16K
+
+2. **Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## 🔗 Dataset Access
 MentalChat16K is available for download at [Hugging Face Datasets](https://huggingface.co/datasets/ShenLab/MentalChat16K).
 
 ## 📚 Citation
