@@ -46,7 +46,7 @@ The dataset prioritizes patient privacy, ethical considerations, and responsible
    git clone https://github.com/ChiaPatricia/MentalChat16K.git
    cd MentalChat16K
    ```
-2. **Install Dependencies:
+2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
