@@ -39,7 +39,7 @@ This repository includes the following three folders:
 ## ⚖️ Ethical Considerations
 The dataset prioritizes patient privacy, ethical considerations, and responsible data usage. All real interview data has been anonymized to protect the identities of the participants. Researchers are encouraged to handle the data with care and adhere to ethical guidelines in their work.
 
-## Installation
+## 🔧 Installation
 
 1. **Clone the Repository:**
    ```bash
