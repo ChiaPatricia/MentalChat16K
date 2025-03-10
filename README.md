@@ -45,10 +45,11 @@ The dataset prioritizes patient privacy, ethical considerations, and responsible
    ```bash
    git clone https://github.com/ChiaPatricia/MentalChat16K.git
    cd MentalChat16K
-
+   ```
 2. **Install Dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## 🔗 Dataset Access
 MentalChat16K is available for download at [Hugging Face Datasets](https://huggingface.co/datasets/ShenLab/MentalChat16K).
