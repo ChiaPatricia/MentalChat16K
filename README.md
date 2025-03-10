@@ -28,18 +28,7 @@ MentalChat16K is intended for research purposes to advance the development of AI
 - Developing empathetic and personalized AI solutions for mental health support.
 - Conducting research on conversational AI in sensitive and critical domains.
 
-## 📁 Repository Structure 
-
-This repository includes the following three folders:
-
-1. **[FastChat](https://github.com/ChiaPatricia/FastChat/tree/a85e4ec8975667eb3395d8350fdcc18ae13e879d)**: Contains modifications to the `llm_judge` module for model evaluation using both GPT and Google Gemini.
-2. **[MentalChat16K_Main](https://github.com/ChiaPatricia/MentalChat16K_Main)**: The main repository involves paraphrasing interview data using `Mistral-Instruct` and an efficient fine-tuning technique for quantized large language models.
-3. **[MentalChat16K_Synthetic_Data_Generation](https://github.com/ChiaPatricia/MentalChat16K_Synthetic_Data_Generation)**: Provides the pipeline for generating synthetic data.
-
-## ⚖️ Ethical Considerations
-The dataset prioritizes patient privacy, ethical considerations, and responsible data usage. All real interview data has been anonymized to protect the identities of the participants. Researchers are encouraged to handle the data with care and adhere to ethical guidelines in their work.
-
-## 🔧 Installation
+### 🔧 Installation
 
 1. **Clone the Repository:**
    ```bash
@@ -50,6 +39,17 @@ The dataset prioritizes patient privacy, ethical considerations, and responsible
    ```bash
    pip install -r requirements.txt
    ```
+
+## 📁 Repository Structure 
+
+This repository includes the following three folders:
+
+1. **[FastChat](https://github.com/ChiaPatricia/FastChat/tree/a85e4ec8975667eb3395d8350fdcc18ae13e879d)**: Contains modifications to the `llm_judge` module for model evaluation using both GPT and Google Gemini.
+2. **[MentalChat16K_Main](https://github.com/ChiaPatricia/MentalChat16K_Main)**: The main repository involves paraphrasing interview data using `Mistral-Instruct` and an efficient fine-tuning technique for quantized large language models.
+3. **[MentalChat16K_Synthetic_Data_Generation](https://github.com/ChiaPatricia/MentalChat16K_Synthetic_Data_Generation)**: Provides the pipeline for generating synthetic data.
+
+## ⚖️ Ethical Considerations
+The dataset prioritizes patient privacy, ethical considerations, and responsible data usage. All real interview data has been anonymized to protect the identities of the participants. Researchers are encouraged to handle the data with care and adhere to ethical guidelines in their work.
 
 ## 🔗 Dataset Access
 MentalChat16K is available for download at [Hugging Face Datasets](https://huggingface.co/datasets/ShenLab/MentalChat16K).
